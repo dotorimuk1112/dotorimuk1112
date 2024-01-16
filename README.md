@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
+
 <!--
 **dotorimuk1112/dotorimuk1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
