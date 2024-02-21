@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=Jupyter%20Notebook,CSS&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotorimuk1112&theme=dark&show_icons=true)
 <!--
 **dotorimuk1112/dotorimuk1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
