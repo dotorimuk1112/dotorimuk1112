@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=멋진%20나&section=header&reversal=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=Jupyter%20Notebook,CSS&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 
