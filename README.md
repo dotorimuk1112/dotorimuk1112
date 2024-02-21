@@ -18,4 +18,4 @@
 ![Static Badge](https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=Elasticsearch)
 ![Static Badge](https://img.shields.io/badge/Kibana-%23005571?style=for-the-badge&logo=Kibana)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/dotorimuk1112/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112)](https://github.com/dotorimuk1112/github-readme-stats)
