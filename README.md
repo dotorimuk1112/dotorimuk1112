@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=Jupyter%20Notebook,CSS&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
+**Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
@@ -15,3 +15,5 @@
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/FLASK-%23000000?style=for-the-badge&logo=flask)
+![Static Badge](https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=Elasticsearch)
+![Static Badge](https://img.shields.io/badge/Kibana-%23005571?style=for-the-badge&logo=Kibana)
