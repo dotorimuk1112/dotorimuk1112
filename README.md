@@ -14,3 +14,4 @@
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/FLASK-%23000000?style=for-the-badge&logo=flask)
