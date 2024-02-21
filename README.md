@@ -3,7 +3,9 @@
 ### 안녕하세요, 멋진 나입니다.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=Jupyter%20Notebook,CSS&layout=compact&theme=midnight-purple)](https://github.com/dotorimuk1112/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=Jupyter%20Notebook,CSS&layout=compact&theme=midnight-purple)
+![Dotorimuk1112's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotorimuk1112&hide=contribs,prs)
+
 
 ### 🦾 Skills
 **Lang and Frameworks**
