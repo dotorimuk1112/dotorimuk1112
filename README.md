@@ -11,10 +11,13 @@
 **Lang and Frameworks**
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)<br>
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)<br>
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![flask](https://img.shields.io/badge/FLASK-%23000000?style=for-the-badge&logo=flask)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=Elasticsearch)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=Elasticsearch)<br>
+[![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%234EA94B?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+
 
 **🛠️ Infra and Tools**
 
