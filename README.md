@@ -15,9 +15,9 @@
 [![Java](https://img.shields.io/badge/JAVA-%23FF5733?style=for-the-badge&logo=java)](https://www.java.com/)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)<br>
 [![Apache Airflow](https://img.shields.io/badge/APACHE%20AIRFLOW-%23017CEE?style=for-the-badge&logo=apache-airflow)](https://airflow.apache.org/)
-[![Apache Superset](https://img.shields.io/badge/APACHE%20SUPERSET-%23F50057?style=for-the-badge&logo=apache%20superset)](https://superset.apache.org/)<br>
+[![Apache Superset](https://img.shields.io/badge/APACHE%20SUPERSET-%23F50057?style=for-the-badge&logo=apache-superset)](https://superset.apache.org/)<br>
 [![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%234EA94B?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)<br>
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)<br>
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![flask](https://img.shields.io/badge/FLASK-%23000000?style=for-the-badge&logo=flask)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=Elasticsearch)<br>
@@ -27,7 +27,7 @@
 
 **🛠️ Infra and Tools**
 
-[![Docker](https://img.shields.io/badge/DOCKER-%232496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/DOCKER-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
