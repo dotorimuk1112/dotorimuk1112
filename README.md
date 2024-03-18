@@ -3,7 +3,7 @@
 ### 안녕하세요, 최현규입니다.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=Jupyter%20Notebook,CSS&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotorimuk1112&hide=Jupyter%20Notebook,CSS,JavaScript&layout=compact&theme=midnight-purple)
 ![Dotorimuk1112's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotorimuk1112&hide=contribs,prs,stars)  
 
 
