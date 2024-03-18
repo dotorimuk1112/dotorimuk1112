@@ -8,7 +8,7 @@
 
 
 ### 🦾 Skills
-**Lang and Frameworks**<br>
+**🌐 Lang and Frameworks**<br>
 
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
