@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=멋진%20나&section=header&reversal=true) <br>
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ChoiHyunKyu&section=header&reversal=true) <br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdotorimuk1112%2Fhit-counter&count_bg=%230021FF&title_bg=%23BE00FF&icon=python.svg&icon_color=%23FFE900&title=hits&edge_flat=false)
 ### 안녕하세요, 최현규입니다.
 
